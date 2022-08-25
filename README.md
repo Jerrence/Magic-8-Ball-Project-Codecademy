@@ -10,6 +10,6 @@
 > **Note:** Make sure you replace file_name with the file name, **example: magic8.py**
 
 
-## Video Tutorial
+### Video Tutorial
 
 > Here's a video I recommend you to watch: **https://www.youtube.com/watch?v=pFYcAOsNyvs**
